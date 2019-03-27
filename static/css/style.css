@@ -578,7 +578,7 @@ header .navbar .cta-btn a:hover {
 
 .media-feature .icon {
   font-size: 60px;
-  color: #1c1890;
+  color: #1c1890; 
 }
 
 .media-feature h3 {
@@ -593,7 +593,7 @@ header .navbar .cta-btn a:hover {
   -ms-transform: scale(1.05);
   transform: scale(1.05);
   z-index: 2;
-  border-bottom: 10px solid #1c1890;
+  border-bottom: 10px solid #b80f0a; /*joanna*/
 }
 
 .media-custom {
