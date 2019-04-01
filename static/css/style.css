@@ -195,7 +195,7 @@ header .navbar .dropdown-menu a {
 
 header .navbar .cta-btn a {
   background: #1c1890;
-  color: #000 !important;
+  color: #fff !important;
   padding-left: 20px !important;
   padding-right: 20px !important;
   text-transform: uppercase;
@@ -210,7 +210,7 @@ header .navbar .cta-btn a {
 header .navbar .cta-btn a:hover {
   color: #fff !important;
   -webkit-box-shadow: 2px 0 30px -5px rgba(244, 178, 20, 0.9);
-  box-shadow: 2px 0 30px -5px rgba(244, 178, 20, 0.9);
+  box-shadow: 2px 0 30px -5px rgba(0, 50, 100, 0.9);
 }
 
 .cta-overlap {
